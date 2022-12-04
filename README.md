@@ -4,6 +4,6 @@
 
 - You can view list of resources/attachments at [Joplin Desktop > Tools > Note attachments]
 
-## My other Joplin plugins if you want to try
+## My other plugins if you want to try
 
 - [Delete folder/notebook and notes without confirmation](https://www.npmjs.com/package/joplin-plugin-delete-notes-without-confirmation)
